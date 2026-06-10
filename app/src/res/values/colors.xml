@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#0F172A</color> <!-- Deep Midnight -->
+
+    <!-- Luxury Tech Palette -->
+    <color name="primary">#4F46E5</color> <!-- Indigo 600 -->
+    <color name="primary_dark">#3730A3</color> <!-- Indigo 800 -->
+    <color name="primary_light">#EEF2FF</color> <!-- Indigo 50 -->
+
+    <color name="accent">#06B6D4</color> <!-- Cyan 500 -->
+    <color name="accent_orange">#F59E0B</color> <!-- Amber 500 -->
+    <color name="secondary">#10B981</color> <!-- Emerald 500 -->
+
+    <color name="bg_light">#F8FAFC</color> <!-- Slate 50 -->
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_main">#1E293B</color> <!-- Slate 800 -->
+    <color name="text_secondary">#64748B</color> <!-- Slate 500 -->
+    <color name="text_muted">#94A3B8</color> <!-- Slate 400 -->
+
+    <color name="error">#EF4444</color>
+    <color name="success">#10B981</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784317921837",
+    "project_id": "studyshare-8fe86",
+    "storage_bucket": "studyshare-8fe86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784317921837:android:358b2491acbd0c838556a4",
+        "android_client_info": {
+          "package_name": "com.example.studyshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hs4rPoe_u7uEzl1W1qIV2B1CJLGur34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
