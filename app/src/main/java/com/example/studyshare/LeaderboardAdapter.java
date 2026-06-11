@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import com.google.android.material.imageview.ShapeableImageView;
 import java.util.List;
-
+// שורה 61
 /**
  * מתאם לוח מובילים (LeaderboardAdapter) - מחלקה זו אחראית להצגת רשימת המשתמשים המצטיינים במערכת.
  * היא מחברת בין נתוני המשתמשים (שם, נקודות, כיתה) לבין העיצוב הגרפי שלהם בטבלת המובילים.

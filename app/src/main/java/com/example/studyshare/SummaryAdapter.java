@@ -19,7 +19,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// שורה 113,121
 /**
  * מתאם סיכומים (SummaryAdapter) - מחלקה זו אחראית להצגת רשימת הסיכומים באפליקציה.
  * היא מחברת בין נתוני הסיכומים לבין העיצוב הגרפי שלהם ברשימה ומטפלת באינטראקציות כמו לייקים, שמירה וניווט לפרטים.

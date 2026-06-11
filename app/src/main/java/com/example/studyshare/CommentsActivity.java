@@ -14,7 +14,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// שורה 102
 /**
  * מסך תגובות (CommentsActivity) - מסך זה מנהל את שרשור התגובות עבור סיכום ספציפי.
  * הוא מאפשר למשתמשים לצפות בתגובות שכתבו אחרים ולהוסיף תגובה חדשה משלהם בזמן אמת.

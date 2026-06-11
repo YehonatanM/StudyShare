@@ -19,7 +19,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 import java.util.UUID;
-
+// שורה 66
 /**
  * מסך פרטי סיכום (SummaryDetailActivity) - מציג את הפרטים המלאים של סיכום לימודי.
  * מאפשר למשתמש לצפות בתוכן, להוריד את הקובץ המצורף, לצפות בתגובות ולדווח על תוכן בעייתי.

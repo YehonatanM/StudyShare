@@ -21,7 +21,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;
-
+// שורה 219
 /**
  * מסך הבית (HomeActivity) - זהו המסך הראשי של האפליקציה לאחר ההתחברות.
  * המסך מציג עדכוני מערכת או פיד של סיכומים אחרונים, ומאפשר ניווט לכל חלקי האפליקציה.

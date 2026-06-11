@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.material.textfield.TextInputEditText;
 
 import java.util.Calendar;
-
+// שורה 124
 /**
  * מסך הרשמה (RegisterActivity) - מאפשר למשתמשים חדשים ליצור חשבון באפליקציה.
  * המסך אוסף פרטים אישיים כמו שם, אימייל, סיסמה, כיתה ותאריך לידה.

@@ -18,7 +18,7 @@ import com.google.firebase.firestore.ListenerRegistration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
-
+// שורה 81,32
 /**
  * מסך ניהול (AdminActivity) - מסך זה מיועד למנהלי המערכת בלבד.
  * הוא מאפשר לנהל את המשתמשים באפליקציה, לצפות בסיכומים, לפרסם עדכונים ולטפל בדיווחים על תוכן לא הולם.

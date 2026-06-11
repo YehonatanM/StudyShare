@@ -3,7 +3,7 @@ package com.example.studyshare;
 import android.content.Intent;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
-
+// שורה 18,25
 /**
  * מסך ראשי (MainActivity) - נקודת הכניסה לאפליקציה.
  * תפקידו לבדוק אם המשתמש כבר מחובר או שצריך לשלוח אותו למסך ההתחברות.

@@ -27,7 +27,7 @@ public class DataManager {
     private final FirebaseAuth auth; // אובייקט האימות של Firebase
     private final FirebaseFirestore db; // אובייקט מסד הנתונים Firestore
     private ListenerRegistration currentUserListener; // רישום מאזין לשינויים בנתוני המשתמש הנוכחי
-
+    // שורה 56 + 71 +184
     // כתובת האימייל המוגדרת כסופר אדמין
     public static final String SUPER_ADMIN_EMAIL = "yehevg12@gmail.com";
     
